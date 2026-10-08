@@ -1,0 +1,439 @@
+{
+ "format": "hololive-dreams-notices",
+ "region": "jp",
+ "lang": "ind",
+ "app_version": "1.2.1",
+ "categories": [
+  {
+   "id": "notice_category-news",
+   "name": "Daftar",
+   "display_type": 1,
+   "display_type_name": "normal",
+   "notices": [
+    {
+     "id": "notice-news-gacha-pickup-261007",
+     "title": "Gacha Jembatan Bahari Telah Dimulai!",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/6427ed33e91cb9ecac68165bcf6900b18f0f8844c28b7305563fa5bbcee08022/index.html",
+     "banner_asset_id": "img_banner_full_gacha-pickup-261007",
+     "start_time": 1791338400000,
+     "start_time_utc": "2026-10-07T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-marathon_event-normal-006",
+     "title": "Event Tantangan Skor \"Balap Sengit di Lautan\" sedang berlangsung!",
+     "type": 2,
+     "type_name": "event",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/47691f6d3226ba4a7f2e1563c24cf66ade608996440311704b0deb4130c90154/index.html",
+     "banner_asset_id": "img_banner_full_marathon_event-normal-006",
+     "start_time": 1791342000000,
+     "start_time_utc": "2026-10-07T03:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-update-261002",
+     "title": "Info Pembaruan Versi 1.2.1",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/4f6aa06444392ea71730ce578bc7181382d28bfb9478fd53fc979a756f7095ba/index.html",
+     "banner_asset_id": "img_banner_full_update-info",
+     "start_time": 1790906400000,
+     "start_time_utc": "2026-10-02T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gift-sales_ranking_1st-gacha-260929",
+     "title": "Top Grossing #1!",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/54262075a7c1f381fad30cac001017c04bceea8d898e4b177ccaf9d5d479853d/index.html",
+     "banner_asset_id": "img_banner_full_gift-sales-ranking-1st-gacha-260929",
+     "start_time": 1790748000000,
+     "start_time_utc": "2026-09-30T06:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-update-area03",
+     "title": "Area Baru \"Soda Pop Lagoon\" Hadir!",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/d796db7f09d835257c352805680d36737eac47ff25a32150b84ed1b3d7357541/index.html",
+     "banner_asset_id": "img_banner_full_area-a03",
+     "start_time": 1790647200000,
+     "start_time_utc": "2026-09-29T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gacha-pickup-260929",
+     "title": "Gacha Cakrawala Biru Impian dimulai!",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/ee884ea482c99b4ef2726bbefcc79b59fc42ce6366de8dba0b542a3ea8a5329b/index.html",
+     "banner_asset_id": "img_banner_full_gacha-pickup-260929",
+     "start_time": 1790629200000,
+     "start_time_utc": "2026-09-28T21:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-shop-missionpass-261001",
+     "title": "Mission Pass Oktober 2026 telah dibuka!",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/bac1cd1e552d5b9fb5502da2133c41086c3dbe84b601a5f6019ad62cf7c9cf53/index.html",
+     "banner_asset_id": "img_banner_full_shop-missionpass-261001",
+     "start_time": 1790798400000,
+     "start_time_utc": "2026-09-30T20:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-shop-membership-261001",
+     "title": "Emote akan ditambahkan di membership!",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/f58859cd231628a2b60c474884da7155a686882892a2be8608a50800876fe259/index.html",
+     "banner_asset_id": "img_banner_full_shop-membership-261001",
+     "start_time": 1790798400000,
+     "start_time_utc": "2026-09-30T20:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-marathon_event-normal-005",
+     "title": "Event tantangan skor \"Byur! Keseruan di Laut Biru\" dimulai!",
+     "type": 2,
+     "type_name": "event",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/f13ca1ac0afb92fc280a3d887e20e15807a31e42ca4b19ab917926cc2e1e3bfd/index.html",
+     "banner_asset_id": "img_banner_full_marathon_event-normal-005",
+     "start_time": 1790650800000,
+     "start_time_utc": "2026-09-29T03:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-login_bonus-event-260929",
+     "title": "Penambahan area baru, event login bonus dimulai!",
+     "type": 6,
+     "type_name": "campaign",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/00adefcc303a98a7f9ed7cecb2ff18dd2bba3bfe886f95c36e9078c14b2201ba/index.html",
+     "banner_asset_id": "img_banner_full_login-bonus-event-260929",
+     "start_time": 1790647200000,
+     "start_time_utc": "2026-09-29T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gacha-fixed-260929",
+     "title": "Perayaan Area Baru! Gacha Jaminan 1 Member ★5",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/e68be9d16a7ca076513ce8bc45eeb09ce408d8c010013398f9d0bb9c91b75318/index.html",
+     "banner_asset_id": "img_banner_full_gacha-fixed-260929",
+     "start_time": 1790629200000,
+     "start_time_utc": "2026-09-28T21:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gacha-area03-select-260929",
+     "title": "Perayaan Area Baru! Bisa Dipilih! Gacha Member ★5! Telah Dimulai!",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/d7e63eeff82c7102d46f7da7bbe2b40e14b29aae88e9416b209b11469ad100fb/index.html",
+     "banner_asset_id": "img_banner_full_gacha-area03-260929",
+     "start_time": 1790629200000,
+     "start_time_utc": "2026-09-28T21:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-shop-stone-area03_celebration-260929",
+     "title": "Untuk merayakan pembukaan area baru, paket terbatas telah tersedia.",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/c52335a93e50d7640ba79b4ca8b2c5031c4b408517bd1fad6e0e4ae533fbad63/index.html",
+     "banner_asset_id": "img_banner_full_shop-stone-area03-celebration-260929",
+     "start_time": 1790647200000,
+     "start_time_utc": "2026-09-29T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-mission-area03-release-260929",
+     "title": "Misi perayaan penambahan area baru dimulai!",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/e0b7a5c382631b0826b318a3d0e0fe8f2dd099d8f5bfbd279c127149d2069120/index.html",
+     "banner_asset_id": "img_banner_full_event-mission-area03-release-260929",
+     "start_time": 1790647200000,
+     "start_time_utc": "2026-09-29T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-update-260929",
+     "title": "Pengumuman Pembaruan Ver.1.2.0",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/7add5ddd14be882f841590d7e2520df0c0d6a52663e6b51a9c34d92fc544ab5e/index.html",
+     "banner_asset_id": "img_banner_full_update-area03",
+     "start_time": 1790647200000,
+     "start_time_utc": "2026-09-29T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-holocard-ranking_reset",
+     "title": "Pengumuman Perubahan Sistem \"Pokajan!\" Mendatang",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/fb623419385e121344b918dd9696f8fcfc16b83fcb2601567e34e9b74cd12c3b/index.html",
+     "banner_asset_id": "",
+     "start_time": 1789626600000,
+     "start_time_utc": "2026-09-17T06:30:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-music-release-260926",
+     "title": "Lagu \"Watcha Gatcha!!!!!!!!\" dari NepoX! telah ditambahkan!",
+     "type": 5,
+     "type_name": "music_update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/583f30c515563d22c83bc8ca0d8e31840c4d8c6b99706cbfa3b8dfb03cb1042c/index.html",
+     "banner_asset_id": "img_banner_full_music-release-260927",
+     "start_time": 1790424000000,
+     "start_time_utc": "2026-09-26T12:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-maintenance-260922",
+     "title": "Pengumuman Maintenance",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/bd3524c89eef82b4d338e99edb45013af1836edac6a4a1f417b38cba7905c5d8/index.html",
+     "banner_asset_id": "img_banner_full_maintenance-info",
+     "start_time": 1790092800000,
+     "start_time_utc": "2026-09-22T16:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-update-260909",
+     "title": "Info Pembaruan Versi 1.1.1",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/9e640482d586c415ce1b36a2b305ed5387a0e681aa192efeb287ef111f32ed93/index.html",
+     "banner_asset_id": "img_banner_full_update-info",
+     "start_time": 1788919200000,
+     "start_time_utc": "2026-09-09T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-update-chase",
+     "title": "Mini-game Baru \"Shadowbound Chase\" telah dimulai!",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/4af01f4e3b090d122df9806e55ad713ea5bff0609eaec34472c6c8360fd0fe88/index.html",
+     "banner_asset_id": "img_banner_full_minigame-chase-260828",
+     "start_time": 1787882400000,
+     "start_time_utc": "2026-08-28T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-update-260828",
+     "title": "Pengumuman Pembaruan Ver.1.1.0",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/5defec80bcc88cdfc2d86feae9be43e9b75d5739a3292d1ee69f9cae88578c33/index.html",
+     "banner_asset_id": "img_banner_full_update-info",
+     "start_time": 1787882400000,
+     "start_time_utc": "2026-08-28T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-creative-chart-01",
+     "title": "Mengenai fitur unggah Buat Notasi",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/2c54768baf5f2e83a37d0e52d67f53af9e4c98929c049b7e7943698f08b8e3bd/index.html",
+     "banner_asset_id": "",
+     "start_time": 1785999600000,
+     "start_time_utc": "2026-08-06T07:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-update-260805",
+     "title": "Info Pembaruan Versi 1.0.101",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/5d6fd077f9213827a7204005741bff6e57bdfb81c4f22c5ec80070de1d5bc56b/index.html",
+     "banner_asset_id": "img_banner_full_update-info",
+     "start_time": 1785927600000,
+     "start_time_utc": "2026-08-05T11:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-update-260730",
+     "title": "Info Pembaruan Versi 1.0.100",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/3bc5c8630b9b0dda96017fe57b6ccd6e22f554d872d59219549227b4159e06a4/index.html",
+     "banner_asset_id": "img_banner_full_update-info",
+     "start_time": 1785382200000,
+     "start_time_utc": "2026-07-30T03:30:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-mv-release",
+     "title": "Pengumuman mengenai tambahan video musik untuk beberapa lagu.",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/e3f2fb557cd2450faf849ac475629a6db6a9031d96b866b52061e7c21dbda37c/index.html",
+     "banner_asset_id": "",
+     "start_time": 1785200400000,
+     "start_time_utc": "2026-07-28T01:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info_campaign-release",
+     "title": "Layanan Resmi \"hololive Dreams\" dimulai",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/6695cea064cd93e9035b3afab78c23fab24ad85eaf51bc4be086e1aacaea4988/index.html",
+     "banner_asset_id": "img_banner_full_info-campaign-release",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-mission_beginner-release",
+     "title": "Misi Pemula dibuka",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/f2de748a4222d3ff039a3a664642c4066f77ef896d0b044e93ffb7a4d15b9a10/index.html",
+     "banner_asset_id": "img_banner_full_event-mission-beginner-mission",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gacha-fixed-beginner-001",
+     "title": "Terbatas 48 Jam! Jaminan 1 member ★5! Start Dash Gacha dibuka!",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/d9c768b2a58d00b3b83cbafa71cd7e017ded59e48a40320e8c02268bf3b5229f/index.html",
+     "banner_asset_id": "img_banner_full_gacha-fixed-beginner-001",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gacha-beginner-select-001",
+     "title": "Terbatas selama 7 Hari! Bisa Dipilih! Gacha Dukungan Pemula Tersedia.",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/1877e703ac8cfb81c88c61444911802e9525f7bd6cc5561054c4a975a96d955a/index.html",
+     "banner_asset_id": "img_banner_full_gacha-beginner-select-001",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-shop_startdash-release",
+     "title": "Paket terbatas spesial peluncuran game!",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/83d5e62db1f79a8b096feb850ef3756efaf9b8bebfbb0b6f836e035a13b9d90f/index.html",
+     "banner_asset_id": "img_banner_full_shop-startdash-release",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": ""
+    }
+   ]
+  },
+  {
+   "id": "notice_category-mal",
+   "name": "Bug",
+   "display_type": 1,
+   "display_type_name": "normal",
+   "notices": [
+    {
+     "id": "notice-mal-list-fixed",
+     "title": "Kendala yang Telah Diperbaiki",
+     "type": 100,
+     "type_name": "bug",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/55741c995bc214784fd013dbf0f0f1c77c293ab702bc7cc853f53493a3fcf40b/index.html",
+     "banner_asset_id": "",
+     "start_time": 1787875200000,
+     "start_time_utc": "2026-08-28T00:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-mal-list-confirmed",
+     "title": "Kesalahan yang dikonfirmasi saat ini",
+     "type": 100,
+     "type_name": "bug",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/79b27107b5831778add55f0f5eacd7e11420f5d11066ab517ad7ea7f19291c44/index.html",
+     "banner_asset_id": "",
+     "start_time": 1787875200000,
+     "start_time_utc": "2026-08-28T00:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-mal-login-failed-android-01-ios",
+     "title": "Mengenai kendala tidak dapat login di beberapa perangkat Android",
+     "type": 100,
+     "type_name": "bug",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/3bc9fd6d2de21571e08d6ddcad1e799cee50b61c1d0e96c258e5fa49f561ec8f/index.html",
+     "banner_asset_id": "",
+     "start_time": 1789626600000,
+     "start_time_utc": "2026-09-17T06:30:00Z",
+     "external_url": ""
+    }
+   ]
+  },
+  {
+   "id": "notice_category-pr",
+   "name": "Situs Terkait",
+   "display_type": 2,
+   "display_type_name": "banner",
+   "notices": [
+    {
+     "id": "notice-pr-official-game-website",
+     "title": "",
+     "type": 0,
+     "type_name": "unknown",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/c47c37fdcfb9d10777307e37c193822b5b7d1d15aec2d5fe1a49f7e96f90b6bd/index.html",
+     "banner_asset_id": "img_banner_full_pr-official-game-website",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": "https://opening.hololive-dreams.com/en"
+    },
+    {
+     "id": "notice-pr-official-game-x",
+     "title": "",
+     "type": 0,
+     "type_name": "unknown",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/c47c37fdcfb9d10777307e37c193822b5b7d1d15aec2d5fe1a49f7e96f90b6bd/index.html",
+     "banner_asset_id": "img_banner_full_pr-official-game-x",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": "https://x.com/holo_dreams_en"
+    },
+    {
+     "id": "notice-pr-official-game-youtube",
+     "title": "",
+     "type": 0,
+     "type_name": "unknown",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/c47c37fdcfb9d10777307e37c193822b5b7d1d15aec2d5fe1a49f7e96f90b6bd/index.html",
+     "banner_asset_id": "img_banner_full_pr-official-game-youtube",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": "https://www.youtube.com/@hololivedreams"
+    },
+    {
+     "id": "notice-pr-official-game-discord",
+     "title": "",
+     "type": 0,
+     "type_name": "unknown",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/c47c37fdcfb9d10777307e37c193822b5b7d1d15aec2d5fe1a49f7e96f90b6bd/index.html",
+     "banner_asset_id": "img_banner_full_pr-official-game-discord",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": "https://discord.gg/hololive-dreams"
+    }
+   ]
+  }
+ ]
+}
