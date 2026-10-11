@@ -110,17 +110,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-marathon_event-normal-005",
-     "title": "Event tantangan skor \"Byur! Keseruan di Laut Biru\" dimulai!",
-     "type": 2,
-     "type_name": "event",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/f13ca1ac0afb92fc280a3d887e20e15807a31e42ca4b19ab917926cc2e1e3bfd/index.html",
-     "banner_asset_id": "img_banner_full_marathon_event-normal-005",
-     "start_time": 1790650800000,
-     "start_time_utc": "2026-09-29T03:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-login_bonus-event-260929",
      "title": "Penambahan area baru, event login bonus dimulai!",
      "type": 6,
@@ -338,6 +327,17 @@
      "banner_asset_id": "img_banner_full_shop-startdash-release",
      "start_time": 1784685600000,
      "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-shop_pass-release",
+     "title": "Telah hadir HoloPaspor dan item menarik lainnya!",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/50abea19db2dd40b4b07f88e27873874c168289ecc6f1667d90a7a01871a8df3/index.html",
+     "banner_asset_id": "img_banner_full_hololive-pass-release",
+     "start_time": 1784772000000,
+     "start_time_utc": "2026-07-23T02:00:00Z",
      "external_url": ""
     }
    ]
