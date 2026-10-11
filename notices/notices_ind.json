@@ -11,17 +11,6 @@
    "display_type_name": "normal",
    "notices": [
     {
-     "id": "notice-news-birthday-chr-00028-261010",
-     "title": "Happy Birthday! Himemori Luna",
-     "type": 6,
-     "type_name": "campaign",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/ef88b3d5e364a353c02300b14c042f6776e4519f92be934670d5357a7a2fee68/index.html",
-     "banner_asset_id": "img_banner_full_birthday-chr-00028-261010",
-     "start_time": 1791558000000,
-     "start_time_utc": "2026-10-09T15:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-gacha-pickup-261007",
      "title": "Gacha Jembatan Bahari Telah Dimulai!",
      "type": 1,
@@ -338,6 +327,17 @@
      "banner_asset_id": "img_banner_full_hololive-pass-release",
      "start_time": 1784772000000,
      "start_time_utc": "2026-07-23T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gacha-common-001",
+     "title": "Gacha holodori Kini Hadir",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/fd737faf0bf19f74f83316009589783892cfa1474f56e7323dbe8d9d204092f1/index.html",
+     "banner_asset_id": "img_banner_full_gacha-common-001",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
      "external_url": ""
     }
    ]
