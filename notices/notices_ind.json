@@ -187,17 +187,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-info-maintenance-260922",
-     "title": "Pengumuman Maintenance",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/bd3524c89eef82b4d338e99edb45013af1836edac6a4a1f417b38cba7905c5d8/index.html",
-     "banner_asset_id": "img_banner_full_maintenance-info",
-     "start_time": 1790092800000,
-     "start_time_utc": "2026-09-22T16:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-info-update-260909",
      "title": "Info Pembaruan Versi 1.1.1",
      "type": 3,
@@ -338,6 +327,17 @@
      "banner_asset_id": "img_banner_full_hololive-pass-release",
      "start_time": 1784772000000,
      "start_time_utc": "2026-07-23T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gacha-common-001",
+     "title": "Gacha holodori Kini Hadir",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/fd737faf0bf19f74f83316009589783892cfa1474f56e7323dbe8d9d204092f1/index.html",
+     "banner_asset_id": "img_banner_full_gacha-common-001",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
      "external_url": ""
     }
    ]
