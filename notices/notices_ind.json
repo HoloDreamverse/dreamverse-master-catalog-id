@@ -369,17 +369,6 @@
      "start_time": 1787875200000,
      "start_time_utc": "2026-08-28T00:00:00Z",
      "external_url": ""
-    },
-    {
-     "id": "notice-mal-login-failed-android-01-ios",
-     "title": "Mengenai kendala tidak dapat login di beberapa perangkat Android",
-     "type": 100,
-     "type_name": "bug",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/3bc9fd6d2de21571e08d6ddcad1e799cee50b61c1d0e96c258e5fa49f561ec8f/index.html",
-     "banner_asset_id": "",
-     "start_time": 1789626600000,
-     "start_time_utc": "2026-09-17T06:30:00Z",
-     "external_url": ""
     }
    ]
   },
