@@ -55,17 +55,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-gift-sales_ranking_1st-gacha-260929",
-     "title": "Top Grossing #1!",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/54262075a7c1f381fad30cac001017c04bceea8d898e4b177ccaf9d5d479853d/index.html",
-     "banner_asset_id": "img_banner_full_gift-sales-ranking-1st-gacha-260929",
-     "start_time": 1790748000000,
-     "start_time_utc": "2026-09-30T06:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-info-update-area03",
      "title": "Area Baru \"Soda Pop Lagoon\" Hadir!",
      "type": 3,
@@ -162,17 +151,6 @@
      "banner_asset_id": "img_banner_full_update-area03",
      "start_time": 1790647200000,
      "start_time_utc": "2026-09-29T02:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-info-holocard-ranking_reset",
-     "title": "Pengumuman Perubahan Sistem \"Pokajan!\" Mendatang",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/fb623419385e121344b918dd9696f8fcfc16b83fcb2601567e34e9b74cd12c3b/index.html",
-     "banner_asset_id": "",
-     "start_time": 1789626600000,
-     "start_time_utc": "2026-09-17T06:30:00Z",
      "external_url": ""
     },
     {
