@@ -132,17 +132,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-login_bonus-event-260929",
-     "title": "Penambahan area baru, event login bonus dimulai!",
-     "type": 6,
-     "type_name": "campaign",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/00adefcc303a98a7f9ed7cecb2ff18dd2bba3bfe886f95c36e9078c14b2201ba/index.html",
-     "banner_asset_id": "img_banner_full_login-bonus-event-260929",
-     "start_time": 1790647200000,
-     "start_time_utc": "2026-09-29T02:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-gacha-fixed-260929",
      "title": "Perayaan Area Baru! Gacha Jaminan 1 Member ★5",
      "type": 1,
@@ -151,17 +140,6 @@
      "banner_asset_id": "img_banner_full_gacha-fixed-260929",
      "start_time": 1790629200000,
      "start_time_utc": "2026-09-28T21:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-shop-stone-area03_celebration-260929",
-     "title": "Untuk merayakan pembukaan area baru, paket terbatas telah tersedia.",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/c52335a93e50d7640ba79b4ca8b2c5031c4b408517bd1fad6e0e4ae533fbad63/index.html",
-     "banner_asset_id": "img_banner_full_shop-stone-area03-celebration-260929",
-     "start_time": 1790647200000,
-     "start_time_utc": "2026-09-29T02:00:00Z",
      "external_url": ""
     },
     {
