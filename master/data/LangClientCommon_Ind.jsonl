@@ -2669,7 +2669,7 @@
 {"client_id":587842801262592,"data":{"clientId":587842801262592,"text":"Good"}}
 {"client_id":587911533387776,"data":{"clientId":587911533387776,"text":"Lanjut"}}
 {"client_id":590292472520704,"data":{"clientId":590292472520704,"text":"Lirik"}}
-{"client_id":590302354300928,"data":{"clientId":590302354300928,"text":"Lagu"}}
+{"client_id":590302354300928,"data":{"clientId":590302354300928,"text":"Komposer"}}
 {"client_id":590308004028416,"data":{"clientId":590308004028416,"text":"Aransemen"}}
 {"client_id":590513315209216,"data":{"clientId":590513315209216,"text":"Kecepatan not"}}
 {"client_id":591663090032640,"data":{"clientId":591663090032640,"text":"Permainan akan dimulai sebentar lagi!"}}
@@ -3071,7 +3071,7 @@
 {"client_id":797129149276162,"data":{"clientId":797129149276162,"text":"한국어"}}
 {"client_id":797129149276163,"data":{"clientId":797129149276163,"text":"简体中文"}}
 {"client_id":797129149276164,"data":{"clientId":797129149276164,"text":"繁體中文"}}
-{"client_id":800082056634368,"data":{"clientId":800082056634368,"text":"Syarat Buka: Dream Rank {0}"}}
+{"client_id":800082056634368,"data":{"clientId":800082056634368,"text":"Syarat Membuka: Dream Rank {0}"}}
 {"client_id":804028612141056,"data":{"clientId":804028612141056,"text":"Pilihan"}}
 {"client_id":805322566950912,"data":{"clientId":805322566950912,"text":"MV Resmi"}}
 {"client_id":805453869637632,"data":{"clientId":805453869637632,"text":"MV Live"}}
@@ -3182,7 +3182,7 @@
 {"client_id":907592404197376,"data":{"clientId":907592404197376,"text":"Publik"}}
 {"client_id":907722500694016,"data":{"clientId":907722500694016,"text":"Semua"}}
 {"client_id":908304024559616,"data":{"clientId":908304024559616,"text":"Membership {0}"}}
-{"client_id":911395523158016,"data":{"clientId":911395523158016,"text":"Lagu"}}
+{"client_id":911395523158016,"data":{"clientId":911395523158016,"text":"Komposer"}}
 {"client_id":911679125217280,"data":{"clientId":911679125217280,"text":"Lirik"}}
 {"client_id":911845722972160,"data":{"clientId":911845722972160,"text":"Aransemen"}}
 {"client_id":913171722821632,"data":{"clientId":913171722821632,"text":"Tonton MV"}}

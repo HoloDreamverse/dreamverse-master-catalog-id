@@ -11,6 +11,28 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-news-gacha-pickup-261019-pre",
+     "title": "[PENGUMUMAN] Gacha Hari Indah di Tepi Pantai Telah Dimulai!",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/42eea983ca3b2d1c1de43a2a6a8b310616e5ed081895226bdaa4226af7d5d7cd/index.html",
+     "banner_asset_id": "img_banner_full_gacha-pickup-261019",
+     "start_time": 1792317600000,
+     "start_time_utc": "2026-10-18T10:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-marathon_event-relay-003-pre",
+     "title": "[PENGUMUMAN] Event Spotlight \"OOTD Pantai Berkilau\" sedang berlangsung!",
+     "type": 2,
+     "type_name": "event",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/4135ae7465d946847a9eeb9200b2683476adaab2d6c68da4bf20bec8074eee8c/index.html",
+     "banner_asset_id": "img_banner_full_marathon_event-relay-003",
+     "start_time": 1792317600000,
+     "start_time_utc": "2026-10-18T10:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-marathon_event-normal-007",
      "title": "Event Point Rally \"Pesta Warna Mentari\" sedang berlangsung!",
      "type": 2,
