@@ -11,14 +11,14 @@
    "display_type_name": "normal",
    "notices": [
     {
-     "id": "notice-news-gacha-pickup-261019-pre",
-     "title": "[PENGUMUMAN] Gacha Hari Indah di Tepi Pantai Telah Dimulai!",
+     "id": "notice-news-gacha-pickup-261019",
+     "title": "Gacha Hari Indah di Tepi Pantai Telah Dimulai!",
      "type": 1,
      "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/42eea983ca3b2d1c1de43a2a6a8b310616e5ed081895226bdaa4226af7d5d7cd/index.html",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/b014de8ed58adc9117cf29a16d998135465552677f08d09c8467cb4647732621/index.html",
      "banner_asset_id": "img_banner_full_gacha-pickup-261019",
-     "start_time": 1792317600000,
-     "start_time_utc": "2026-10-18T10:00:00Z",
+     "start_time": 1792375200000,
+     "start_time_utc": "2026-10-19T02:00:00Z",
      "external_url": ""
     },
     {
@@ -55,17 +55,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-gacha-pickup-261007",
-     "title": "Gacha Jembatan Bahari Telah Dimulai!",
-     "type": 1,
-     "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/6427ed33e91cb9ecac68165bcf6900b18f0f8844c28b7305563fa5bbcee08022/index.html",
-     "banner_asset_id": "img_banner_full_gacha-pickup-261007",
-     "start_time": 1791338400000,
-     "start_time_utc": "2026-10-07T02:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-marathon_event-normal-006",
      "title": "Event Tantangan Skor \"Balap Sengit di Lautan\" sedang berlangsung!",
      "type": 2,
@@ -99,17 +88,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-gacha-pickup-260929",
-     "title": "Gacha Cakrawala Biru Impian dimulai!",
-     "type": 1,
-     "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/ee884ea482c99b4ef2726bbefcc79b59fc42ce6366de8dba0b542a3ea8a5329b/index.html",
-     "banner_asset_id": "img_banner_full_gacha-pickup-260929",
-     "start_time": 1790629200000,
-     "start_time_utc": "2026-09-28T21:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-shop-missionpass-261001",
      "title": "Mission Pass Oktober 2026 telah dibuka!",
      "type": 4,
@@ -129,17 +107,6 @@
      "banner_asset_id": "img_banner_full_shop-membership-261001",
      "start_time": 1790798400000,
      "start_time_utc": "2026-09-30T20:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-gacha-fixed-260929",
-     "title": "Perayaan Area Baru! Gacha Jaminan 1 Member ★5",
-     "type": 1,
-     "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/e68be9d16a7ca076513ce8bc45eeb09ce408d8c010013398f9d0bb9c91b75318/index.html",
-     "banner_asset_id": "img_banner_full_gacha-fixed-260929",
-     "start_time": 1790629200000,
-     "start_time_utc": "2026-09-28T21:00:00Z",
      "external_url": ""
     },
     {
