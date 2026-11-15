@@ -19,6 +19,12 @@
 {"id":"la-mission_grp-marathon_event-relay-003-chapter-02","data":{"id":"la-mission_grp-marathon_event-relay-003-chapter-02","text":"Misi Event (Kaela)"}}
 {"id":"la-mission_grp-marathon_event-relay-003-chapter-03","data":{"id":"la-mission_grp-marathon_event-relay-003-chapter-03","text":"Misi Event (Botan)"}}
 {"id":"la-mission_grp-marathon_event-relay-003-chapter-04","data":{"id":"la-mission_grp-marathon_event-relay-003-chapter-04","text":"Misi Event (Bijou)"}}
+{"id":"la-mission_grp-marathon_event-relay-004","data":{"id":"la-mission_grp-marathon_event-relay-004","text":"Misi Event"}}
+{"id":"la-mission_grp-marathon_event-relay-004-chapter-01","data":{"id":"la-mission_grp-marathon_event-relay-004-chapter-01","text":"Misi Event (Robocosan)"}}
+{"id":"la-mission_grp-marathon_event-relay-004-chapter-02","data":{"id":"la-mission_grp-marathon_event-relay-004-chapter-02","text":"Misi Event (Pekora)"}}
+{"id":"la-mission_grp-marathon_event-relay-004-chapter-03","data":{"id":"la-mission_grp-marathon_event-relay-004-chapter-03","text":"Misi Event (IRyS)"}}
+{"id":"la-mission_grp-marathon_event-relay-004-chapter-04","data":{"id":"la-mission_grp-marathon_event-relay-004-chapter-04","text":"Misi Event (Nene)"}}
+{"id":"la-mission_grp-marathon_event-relay-004-chapter-05","data":{"id":"la-mission_grp-marathon_event-relay-004-chapter-05","text":"Misi Event (Reine)"}}
 {"id":"la-mission_grp-mission_pass-0001-daily","data":{"id":"la-mission_grp-mission_pass-0001-daily","text":"Misi Harian"}}
 {"id":"la-mission_grp-mission_pass-0001-season","data":{"id":"la-mission_grp-mission_pass-0001-season","text":"Misi Season"}}
 {"id":"la-mission_grp-mission_pass-0001-weekly","data":{"id":"la-mission_grp-mission_pass-0001-weekly","text":"Misi Mingguan"}}
@@ -32,3 +38,4 @@
 {"id":"la-mission_grp-missionpass-261101-season","data":{"id":"la-mission_grp-missionpass-261101-season","text":"Misi Season"}}
 {"id":"la-mission_grp-missionpass-261101-weekly","data":{"id":"la-mission_grp-missionpass-261101-weekly","text":"Misi Mingguan"}}
 {"id":"la-mission_grp-training_support-260816","data":{"id":"la-mission_grp-training_support-260816","text":"Misi Level Up"}}
+{"id":"la-mission_grp-training_support-261105","data":{"id":"la-mission_grp-training_support-261105","text":"Misi Level Up"}}

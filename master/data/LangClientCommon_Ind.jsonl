@@ -128,7 +128,7 @@
 {"client_id":202608140002,"data":{"clientId":202608140002,"text":"PINK"}}
 {"client_id":202608140003,"data":{"clientId":202608140003,"text":"YELLOW"}}
 {"client_id":202608140004,"data":{"clientId":202608140004,"text":"BLUE"}}
-{"client_id":219289739264,"data":{"clientId":219289739264,"text":"Fast"}}
+{"client_id":219289739264,"data":{"clientId":219289739264,"text":"FAST"}}
 {"client_id":231402889216,"data":{"clientId":231402889216,"text":"Tidak ada yang diubah."}}
 {"client_id":267792670720,"data":{"clientId":267792670720,"text":"Hapus"}}
 {"client_id":275782819840,"data":{"clientId":275782819840,"text":"Set"}}
@@ -225,7 +225,7 @@
 {"client_id":2714057564160,"data":{"clientId":2714057564160,"text":"Lagu"}}
 {"client_id":2718545469440,"data":{"clientId":2718545469440,"text":"Buat Baru"}}
 {"client_id":2749961827751,"data":{"clientId":2749961827751,"text":"Tes Main"}}
-{"client_id":2803613425664,"data":{"clientId":2803613425664,"text":"Promo"}}
+{"client_id":2803613425664,"data":{"clientId":2803613425664,"text":"Campaign"}}
 {"client_id":2811230201836,"data":{"clientId":2811230201836,"text":"--"}}
 {"client_id":2830206230528,"data":{"clientId":2830206230528,"text":"Semua"}}
 {"client_id":2830210424833,"data":{"clientId":2830210424833,"text":"Hari Ini"}}
@@ -276,6 +276,7 @@
 {"client_id":4159892873216,"data":{"clientId":4159892873216,"text":"Clear"}}
 {"client_id":4178670772224,"data":{"clientId":4178670772224,"text":"ID telah disalin"}}
 {"client_id":4178704326657,"data":{"clientId":4178704326657,"text":"ID tidak dapat disalin"}}
+{"client_id":4244683426502,"data":{"clientId":4244683426502,"text":"Menerima {0} item"}}
 {"client_id":4293842165760,"data":{"clientId":4293842165760,"text":"Full Combo"}}
 {"client_id":4348271648768,"data":{"clientId":4348271648768,"text":"Buat dari nol"}}
 {"client_id":4363970011136,"data":{"clientId":4363970011136,"text":"Pembaruan"}}
@@ -665,6 +666,7 @@
 {"client_id":45675175418262,"data":{"clientId":45675175418262,"text":"Ayo jemput holomem!"}}
 {"client_id":45736346509312,"data":{"clientId":45736346509312,"text":"Lainnya"}}
 {"client_id":45740654059520,"data":{"clientId":45740654059520,"text":"Dengan video Live"}}
+{"client_id":45790967773259,"data":{"clientId":45790967773259,"text":"Sinkronasi data"}}
 {"client_id":45859914899456,"data":{"clientId":45859914899456,"text":"S"}}
 {"client_id":45925500689626,"data":{"clientId":45925500689626,"text":"Konfirmasi"}}
 {"client_id":45958611066880,"data":{"clientId":45958611066880,"text":"M"}}
@@ -723,6 +725,7 @@
 {"client_id":54068314601485,"data":{"clientId":54068314601485,"text":"Riwayat"}}
 {"client_id":54213657564249,"data":{"clientId":54213657564249,"text":"Koneksi dengan server terputus, kembali ke Taman."}}
 {"client_id":54279099306007,"data":{"clientId":54279099306007,"text":"Power Keseluruhan"}}
+{"client_id":54390697364715,"data":{"clientId":54390697364715,"text":"Koneksi terputus, rekor nilai pemain lain tidak tercatat. Kami merekomendasikan bermain dengan jaringan yang stabil."}}
 {"client_id":54544104877051,"data":{"clientId":54544104877051,"text":"Event selesai."}}
 {"client_id":54555868913664,"data":{"clientId":54555868913664,"text":"Tidak ada holomem yang dapat ditampilkan"}}
 {"client_id":54666535387134,"data":{"clientId":54666535387134,"text":"ver. {0}"}}
@@ -813,6 +816,7 @@
 {"client_id":65466628726784,"data":{"clientId":65466628726784,"text":"CREATE"}}
 {"client_id":65518055088128,"data":{"clientId":65518055088128,"text":"Ayo bermain dengan Notasi yang dibuat oleh orang lain!"}}
 {"client_id":65618403525255,"data":{"clientId":65618403525255,"text":"Menunggu respons host"}}
+{"client_id":65634157373528,"data":{"clientId":65634157373528,"text":"Sambungkan"}}
 {"client_id":65927871720978,"data":{"clientId":65927871720978,"text":"Jika tidak dipilih, ruangan ini akan dibuka."}}
 {"client_id":65994746437729,"data":{"clientId":65994746437729,"text":"GO"}}
 {"client_id":66112283729920,"data":{"clientId":66112283729920,"text":"Tambahkan"}}
@@ -946,6 +950,7 @@
 {"client_id":83471831567377,"data":{"clientId":83471831567377,"text":"Mode"}}
 {"client_id":83575561902365,"data":{"clientId":83575561902365,"text":"Semua cerita telah terbuka."}}
 {"client_id":83662515538845,"data":{"clientId":83662515538845,"text":"Hanya MV"}}
+{"client_id":83897986141864,"data":{"clientId":83897986141864,"text":"Batalkan"}}
 {"client_id":83941326221819,"data":{"clientId":83941326221819,"text":"Tidak ada transaksi yang tertunda."}}
 {"client_id":84116319797876,"data":{"clientId":84116319797876,"text":"Karena terdeteksi adanya tindakan mengganggu pemain lain,\\nfitur Live Multiplayer akan dibatasi."}}
 {"client_id":84124113648839,"data":{"clientId":84124113648839,"text":"Membership adalah layanan berlangganan yang memungkinkan pemain menerima berbagai manfaat dengan membayar biaya bulanan.\nMembership tersedia untuk setiap holomem dan manfaatnya bervariasi.\n\n▼ Manfaat selama periode aktif\n・Stiker Keanggotaan\n・Gelar Keanggotaan\n・Tanda Penggemar Resmi\n*Konten membership bervariasi tergantung pada holomem.\n*Fitur membership tidak dapat digunakan jika masa aktif berakhir.\n\n▼Hadiah Pendaftaran/Perpanjangan\n▽Saat Pendaftaran Awal\n・Medal Membership holomem terkait x 6 (Termasuk x 3 Bonus Awal)\n\n▽Perpanjangan Berikutnya\n・Medal Membership holomem terkait x 3\n\n▽Waktu Perpanjangan\n・Medal Membership holomem terkait x 3\n\n*Medal Membership diberikan saat bergabung atau melakukan perpanjangan.\n*Medal Membership yang dapat ditukarkan dengan item Membership.\n*Item yang dibeli dapat digunakan meski pemain membatalkan keanggotaan.\n\n▼ Tentang Masa Berlaku & Perpanjangan Otomatis\nMasa berlaku Membership adalah 1 bulan terhitung dari tanggal pembelian.\nKecuali perpanjangan otomatis dihentikan, langganan akan diperpanjang otomatis setiap bulan, dan masa berlaku akan bertambah 1 bulan setiap kali diperpanjang.\nTanggal perpanjangan dapat dilihat di [Toko] > [Membership].\nWaktu perpanjangan mengikuti waktu pergantian hari di dalam game.\n*Pergantian hari setiap pukul 05.00 JST (Waktu Jepang).\n*Masa aktif dapat bergeser beberapa hari akibat perbedaan waktu sinkronisasi platform, terutama untuk pembelian atau pembaruan di akhir/awal bulan.\n・Harap batalkan Membership setidaknya 72 jam sebelum waktu perpanjangan otomatis.\n*Jika kurang dari 72 jam, ada kemungkinan platform tidak dapat memproses tepat waktu dan Membership tetap diperbarui.\n・Meski melakukan pembatalan selama masa berlaku, pemain tetap menerima layanan Membership hingga masa berlaku berakhir.\n\n▼ Tata Cara Pembatalan Langganan\nPemain dapat melakukan pembatalan langganan dengan mengikuti langkah-langkah berikut:\n\n[Perangkat iOS]\n1. Pilih akun pengguna dari menu [Pengaturan] perangkat.\n2. Pilih opsi [Langganan].\n3. Pilih opsi langganan [hololive Dreams].\n4. Dengan memilih opsi [Batalkan Langganan], perbaruan langganan akan dihentikan.\n\n[Perangkat Android]\n1. Pilih ikon pengguna pada [Google Play Store].\n2. Pilih menu [Pembayaran dan Langganan].\n3. Pilih opsi [Langganan].\n4. Pilih opsi [hololive Dreams].\n5. Pilih opsi [Batalkan Langganan].\n\n*Menghapus data aplikasi atau game serta akun tidak akan menghentikan langganan. Harap perhatikan dengan hati-hati.\n*Jika tidak yakin tentang prosedur yang dilakukan, silakan hubungi layanan penyedia platform.\n\n▼Catatan Penting\n・ Biaya Membership setiap holomem adalah 290 Yen per bulan. Sebagai gambaran berlangganan 1 tahun, totalnya adalah 3.480 Yen untuk 12 bulan termasuk bulan pertama.\n*Harga di atas adalah dalam mata uang Yen Jepang. Harap pastikan nominal aslinya pada layar konfirmasi sebelum melakukan pembayaran.\n・Layanan langganan berlaku untuk data akun game yang digunakan pada saat pembelian.\n*Jika pemain akan membeli layanan langganan di perangkat baru, harap tautkan data akun data game lama sebelum melakukan pembelian layanan langganan kembali.\n・Pembelian langganan tidak dapat dibatalkan atau direfund. Meskipun berhenti berlangganan di tengah masa berlaku, Anda tetap bisa menikmati layanan hingga masa berlaku tersebut berakhir, dan tidak ada pengembalian dana untuk sisa periode yang tidak digunakan.\n・Jika pemain melakukan pembelian langganan pada dua akun atau lebih dan melakukan integrasi data, manfaatnya tidak akan mengalami penggandaan.\n・Pemain mungkin mengalami masalah dalam proses penggunaan langganan. Harap tidak keluar aplikasi saat proses pembelian (menyambung layanan) sedang berlangsung.\n・Jika manfaat langganan tidak muncul di aplikasi setelah membeli langganan, silakan ikuti petunjuk di bawah ini.\nBuka [Menu] → [Toko] → [Membership] di dalam aplikasi hololive Dreams dan pilih tombol [+] yang muncul pada layar [Selesaikan Pembelian].\n・Terdapat pembatasan pembelian layanan langganan bagi pemain yang berusia di bawah 20 tahun.\n*Ini hanya berlaku untuk versi Jepang.\n・Langganan tidak dapat dibeli pada versi Steam. Keuntungan layanan Membership yang dibeli pada versi iOS dan Andriod juga akan berlaku pada versi Steam di akun yang sama."}}
@@ -991,6 +996,7 @@
 {"client_id":92415951837689,"data":{"clientId":92415951837689,"text":"Ke-{0}"}}
 {"client_id":92500159681823,"data":{"clientId":92500159681823,"text":"Frame rate tidak dapat diubah saat Vertical Sync ON."}}
 {"client_id":92679335202344,"data":{"clientId":92679335202344,"text":"Periksa Pengaturan Sebelum Live"}}
+{"client_id":92826337835270,"data":{"clientId":92826337835270,"text":"Sambungkan akun Google Play Anda?\\n\\nDengan menyambungkan dengan akun Google Play,\\npemain bisa memainkan game di perangkat yang tersambung.\\n\\nHanya satu akun game yang bisa tersambung dengan akun Google Play."}}
 {"client_id":92951903899141,"data":{"clientId":92951903899141,"text":"Tidak ada Auto"}}
 {"client_id":93526182618577,"data":{"clientId":93526182618577,"text":"iOS \"Pengaturan\" > Aktifkan \"Izinkan Pelacakan\"\\nuntuk menerima iklan yang paling sesuai."}}
 {"client_id":93596834859659,"data":{"clientId":93596834859659,"text":"Tidak ada Holowork yang dapat digunakan"}}
@@ -1189,6 +1195,7 @@
 {"client_id":121616340978376,"data":{"clientId":121616340978376,"text":"Off"}}
 {"client_id":121729213196721,"data":{"clientId":121729213196721,"text":"N"}}
 {"client_id":121810089525473,"data":{"clientId":121810089525473,"text":"Batalkan"}}
+{"client_id":121874690335517,"data":{"clientId":121874690335517,"text":"Opsi acak telah dipilih karena batas waktu habis."}}
 {"client_id":121982617709170,"data":{"clientId":121982617709170,"text":"Unrated"}}
 {"client_id":122216698929152,"data":{"clientId":122216698929152,"text":"Muat Ulang"}}
 {"client_id":122524622766160,"data":{"clientId":122524622766160,"text":"Telat untuk dibuka..."}}
@@ -1612,7 +1619,6 @@
 {"client_id":181335271033389,"data":{"clientId":181335271033389,"text":"G"}}
 {"client_id":181419344967445,"data":{"clientId":181419344967445,"text":"Pengaturan panggung sedang berlangsung."}}
 {"client_id":181466459582634,"data":{"clientId":181466459582634,"text":"Kembali ke Taman"}}
-{"client_id":181503009327818,"data":{"clientId":181503009327818,"text":"Grup Patroli: Pergi menangkap."}}
 {"client_id":182419864608014,"data":{"clientId":182419864608014,"text":"Stealth"}}
 {"client_id":182589729548169,"data":{"clientId":182589729548169,"text":"Bulan"}}
 {"client_id":182725570274111,"data":{"clientId":182725570274111,"text":"Bonus Item hanya berlaku selama masa berlangganan. \nBonus yang ditukarkan dengan Medali Membership dapat digunakan meskipun berhenti berlangganan."}}
@@ -1634,7 +1640,7 @@
 {"client_id":185526097651597,"data":{"clientId":185526097651597,"text":"Jumlah pemain tidak mencukupi"}}
 {"client_id":185571266938927,"data":{"clientId":185571266938927,"text":"Detail"}}
 {"client_id":185636324720295,"data":{"clientId":185636324720295,"text":"Hadiah"}}
-{"client_id":186047766945005,"data":{"clientId":186047766945005,"text":"Fast"}}
+{"client_id":186047766945005,"data":{"clientId":186047766945005,"text":"FAST"}}
 {"client_id":186218333619240,"data":{"clientId":186218333619240,"text":"Hasil Peringkat Event Pt"}}
 {"client_id":186257923072000,"data":{"clientId":186257923072000,"text":"Tidak ada riwayat."}}
 {"client_id":186416815792128,"data":{"clientId":186416815792128,"text":"Live Bersama"}}
@@ -1672,6 +1678,7 @@
 {"client_id":193895282418811,"data":{"clientId":193895282418811,"text":"Buah"}}
 {"client_id":194054733750272,"data":{"clientId":194054733750272,"text":"Level Up"}}
 {"client_id":194296183054336,"data":{"clientId":194296183054336,"text":"Latihan SP"}}
+{"client_id":194363935580640,"data":{"clientId":194363935580640,"text":"Terima sekaligus"}}
 {"client_id":194522025353216,"data":{"clientId":194522025353216,"text":"Mekar"}}
 {"client_id":194676608805285,"data":{"clientId":194676608805285}}
 {"client_id":194934081746662,"data":{"clientId":194934081746662,"text":"Tidak Ada"}}
@@ -1757,7 +1764,6 @@
 {"client_id":206941633601536,"data":{"clientId":206941633601536,"text":"Lipat\\n"}}
 {"client_id":207051353446788,"data":{"clientId":207051353446788,"text":"{0} m lalu"}}
 {"client_id":207082242465792,"data":{"clientId":207082242465792,"text":"Sudah Bergabung"}}
-{"client_id":207137485702099,"data":{"clientId":207137485702099,"text":"Grup Patroli: Gunakan skill."}}
 {"client_id":207216570195968,"data":{"clientId":207216570195968,"text":"Batalkan"}}
 {"client_id":207220454121472,"data":{"clientId":207220454121472,"text":"Mulai Tantangan"}}
 {"client_id":207225178473962,"data":{"clientId":207225178473962,"text":"Not lagu yang disalin telah diletakkan."}}
@@ -1793,7 +1799,7 @@
 {"client_id":211033587703808,"data":{"clientId":211033587703808,"text":"Konfirmasi"}}
 {"client_id":211126919860535,"data":{"clientId":211126919860535,"text":"Lv"}}
 {"client_id":211191508393984,"data":{"clientId":211191508393984,"text":"Klaim"}}
-{"client_id":211197178260050,"data":{"clientId":211197178260050,"text":"Lagu"}}
+{"client_id":211197178260050,"data":{"clientId":211197178260050,"text":"Event"}}
 {"client_id":211202614910976,"data":{"clientId":211202614910976,"text":"Sudah"}}
 {"client_id":211222464782336,"data":{"clientId":211222464782336,"text":"Undang"}}
 {"client_id":211257412542464,"data":{"clientId":211257412542464,"text":"Batalkan"}}
@@ -2129,6 +2135,7 @@
 {"client_id":261483697708764,"data":{"clientId":261483697708764,"text":"Ini adalah holomem yang sedang dikontrol. Pemain juga bisa mengganti holomem yang ingin dimainkan."}}
 {"client_id":261602149597782,"data":{"clientId":261602149597782,"text":"Waktu habis, keluar dari ruangan."}}
 {"client_id":261606655713280,"data":{"clientId":261606655713280,"text":"Achievs"}}
+{"client_id":262333984965941,"data":{"clientId":262333984965941,"text":"*Informasi di atas bisa berubah sewaktu-waktu. Nilai yang ditampilkan merepresentasikan level/Bloom stage maksimal."}}
 {"client_id":262530360242967,"data":{"clientId":262530360242967,"text":"Event selesai."}}
 {"client_id":262537788406389,"data":{"clientId":262537788406389,"text":"Peringkat Total Skor Tertinggi"}}
 {"client_id":262676337234996,"data":{"clientId":262676337234996,"text":"Semua\\nSudah Terbuka"}}
@@ -2426,7 +2433,7 @@
 {"client_id":412274758901760,"data":{"clientId":412274758901760,"text":"(<color=#F9FF55>{0}</color>/{1})"}}
 {"client_id":413807126568960,"data":{"clientId":413807126568960,"text":"Total Kombo"}}
 {"client_id":415651487178752,"data":{"clientId":415651487178752,"text":"Tidak dapat menemukan Notasi yang dipilih"}}
-{"client_id":415997836025856,"data":{"clientId":415997836025856,"text":"Tidak dapat menemukan partitur musik yang cocok."}}
+{"client_id":415997836025856,"data":{"clientId":415997836025856,"text":"Kreator tidak ditemukan."}}
 {"client_id":416291669696512,"data":{"clientId":416291669696512,"text":"Memori"}}
 {"client_id":416374620446720,"data":{"clientId":416374620446720,"text":"Member"}}
 {"client_id":417258431438848,"data":{"clientId":417258431438848,"text":"ID ruangan telah disalin"}}
@@ -2445,7 +2452,7 @@
 {"client_id":425854840692736,"data":{"clientId":425854840692736,"text":"Tidak ada barang yang telah diambil"}}
 {"client_id":426237585809408,"data":{"clientId":426237585809408,"text":"/{0}"}}
 {"client_id":426415565561856,"data":{"clientId":426415565561856,"text":"Klaim"}}
-{"client_id":426672222461952,"data":{"clientId":426672222461952,"text":"Hanya menampilkan 100 item terbaru"}}
+{"client_id":426672222461952,"data":{"clientId":426672222461952,"text":"Hanya menampilkan {0} item terbaru"}}
 {"client_id":426805761662976,"data":{"clientId":426805761662976,"text":"Ambil Semua"}}
 {"client_id":426807178387456,"data":{"clientId":426807178387456,"text":"Tidak ada pesan"}}
 {"client_id":427054488084480,"data":{"clientId":427054488084480,"text":"Kiriman"}}
@@ -2554,6 +2561,7 @@
 {"client_id":498028911419392,"data":{"clientId":498028911419392,"text":"Syarat"}}
 {"client_id":498121039306752,"data":{"clientId":498121039306752,"text":"Efek"}}
 {"client_id":498702638276608,"data":{"clientId":498702638276608,"text":"Batalkan"}}
+{"client_id":498737727292322,"data":{"clientId":498737727292322,"text":"Data game di akun Google Play akan ditimpa dan tidak dapat dipulihkan kembali.Lanjutkan?"}}
 {"client_id":498832191938560,"data":{"clientId":498832191938560,"text":"Simpan"}}
 {"client_id":499853025140736,"data":{"clientId":499853025140736,"text":"Punya"}}
 {"client_id":500105247383552,"data":{"clientId":500105247383552,"text":"Tempel"}}
@@ -2733,7 +2741,7 @@
 {"client_id":612532842258431,"data":{"clientId":612532842258431,"text":"GOAL"}}
 {"client_id":612532842258432,"data":{"clientId":612532842258432,"text":"Bonus Event"}}
 {"client_id":612532842258433,"data":{"clientId":612532842258433,"text":"Selesai dengan skor <color=#FFF966>{0}</color> atau lebih!"}}
-{"client_id":612532842258435,"data":{"clientId":612532842258435,"text":"Fast"}}
+{"client_id":612532842258435,"data":{"clientId":612532842258435,"text":"FAST"}}
 {"client_id":612532842258436,"data":{"clientId":612532842258436,"text":"SLOW"}}
 {"client_id":612638523744256,"data":{"clientId":612638523744256,"text":"Berangkat ke Dream Park bersama holomem kesayanganmu!"}}
 {"client_id":616249538043904,"data":{"clientId":616249538043904,"text":"Apakah akan mengirim ini?"}}
