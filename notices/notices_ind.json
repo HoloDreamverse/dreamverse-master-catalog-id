@@ -11,17 +11,6 @@
    "display_type_name": "normal",
    "notices": [
     {
-     "id": "notice-news-birthday-chr-00030-261115",
-     "title": "Happy Birthday! Yukihana Lamy",
-     "type": 6,
-     "type_name": "campaign",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/4fe494df03168977788bdf2d5c80dc228e21a3fc33e92b73c2a858d6b6d78269/index.html",
-     "banner_asset_id": "img_banner_full_birthday-chr-00030-261115",
-     "start_time": 1794668400000,
-     "start_time_utc": "2026-11-14T15:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-gacha-pickup-261114",
      "title": "Gacha Tamasya Indah Musim Gugur Telah Dimulai!",
      "type": 1,
