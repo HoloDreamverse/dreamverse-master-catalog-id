@@ -11,6 +11,17 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-news-gift-gp_bestgame-261120",
+     "title": "Pemenang \"Best Game\" Google Play 2026!",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/3a304dc8902f63ae742a86a7e198c86bf411ccafa9ecac9ad06ee45a953797fd/index.html",
+     "banner_asset_id": "img_banner_full_gift-gp-bestgame-261120",
+     "start_time": 1795147200000,
+     "start_time_utc": "2026-11-20T04:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-gacha-pickup-261114",
      "title": "Gacha Tamasya Indah Musim Gugur Telah Dimulai!",
      "type": 1,
@@ -85,17 +96,6 @@
      "banner_asset_id": "img_banner_full_info-survey-260828",
      "start_time": 1793156400000,
      "start_time_utc": "2026-10-28T03:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-info-other-261019",
-     "title": "Pengumuman dari Tim Manajemen",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/fec05750c5a532282bc45f9f2ec609d2bc1a5f099d4c43e53dadb532fa1555b7/index.html",
-     "banner_asset_id": "",
-     "start_time": 1792395000000,
-     "start_time_utc": "2026-10-19T07:30:00Z",
      "external_url": ""
     },
     {
@@ -302,6 +302,36 @@
      "banner_asset_id": "",
      "start_time": 1787875200000,
      "start_time_utc": "2026-08-28T00:00:00Z",
+     "external_url": ""
+    }
+   ]
+  },
+  {
+   "id": "notice_category-announce",
+   "name": "Dari Tim\nOperasional",
+   "display_type": 1,
+   "display_type_name": "normal",
+   "notices": [
+    {
+     "id": "notice-news-info-other-261125",
+     "title": "Pengumuman dari Tim Operasional",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/8ddf82870e867c3d100e4f973c160366ac3dda2978e6d54225a346f7dfd42aba/index.html",
+     "banner_asset_id": "",
+     "start_time": 1795147200000,
+     "start_time_utc": "2026-11-20T04:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-other-261019",
+     "title": "Pengumuman dari Tim Manajemen",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/fec05750c5a532282bc45f9f2ec609d2bc1a5f099d4c43e53dadb532fa1555b7/index.html",
+     "banner_asset_id": "",
+     "start_time": 1792395000000,
+     "start_time_utc": "2026-10-19T07:30:00Z",
      "external_url": ""
     }
    ]
