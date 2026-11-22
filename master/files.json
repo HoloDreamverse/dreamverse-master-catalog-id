@@ -499,8 +499,8 @@
   "masterVersion": "1e7e0e9790e0d2e27712c5eb3f71470230fa977f9b75d7c8fa7b2a7dad3c292d",
   "notices": {
     "notices/notices_ind.json": {
-      "bytes": 16272,
-      "sha256": "6d6ccd564c7e0e05bc084dd9484230a10980978e8260340a8dfb27d492a2e8d0"
+      "bytes": 16772,
+      "sha256": "8a5f61d4af96284279ff9bf780aa68a283f1d4276ec8f23f7a3d95311172e621"
     }
   },
   "region": "jp",
