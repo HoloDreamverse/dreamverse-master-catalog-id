@@ -11,6 +11,17 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-news-info-stream-123",
+     "title": "Program spesial resmi holodori telah diumumkan!",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/7b9b7e94d77623dc5f055cc1fcd063c01013fb3a3cecd94d7c97b65926ea361a/index.html",
+     "banner_asset_id": "img_banner_full_info-stream-123",
+     "start_time": 1795424400000,
+     "start_time_utc": "2026-11-23T09:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-gift-gp_bestgame-261120",
      "title": "Pemenang \"Best Game\" Google Play 2026!",
      "type": 4,
